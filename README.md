@@ -26,12 +26,12 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm [Your Name]</h1>
+    <h1>Welcome! I'm [Polly Gerald]</h1>
 
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
+        <p>I'm a student currently learning [Computer programming].
+           I'm interested in [web development ].</p>
     </div>
 
     <div class="section">
